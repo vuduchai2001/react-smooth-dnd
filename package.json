@@ -22,14 +22,11 @@
     "draggable",
     "dnd"
   ],
-  "author": {
-    "name": "Kutlu Sahin",
-    "email": "kutlugsahin@gmail.com"
-  },
+  "author": "Kutlu Sahin <kutlugsahin@gmail.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuduchai20001/react-smooth-dnd.git"
+    "url": "git+https://github.com/vuduchai2001/react-smooth-dnd.git"
   },
   "devDependencies": {
     "@babel/core": "7.3.4",
@@ -50,5 +47,9 @@
   "dependencies": {
     "smooth-dnd": "0.12.1",
     "prop-types": ">=15.6.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/vuduchai20001/react-smooth-dnd/issues"
+  },
+  "homepage": "https://github.com/vuduchai20001/react-smooth-dnd#readme"
 }
