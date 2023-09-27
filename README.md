@@ -1,3 +1,6 @@
+# Fork
+This is a fork of [react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd) to fix error children for react 18 + Typescript 
+
 # react-smooth-dnd
 
 A fast and lightweight drag&drop, sortable library for React with many configuration options covering many d&d scenarios. It uses css transitions for animations so it's hardware accelerated whenever possible.
